@@ -5,7 +5,11 @@ const Project_card = (props) => {
   return (
     <li key={props.id}>
       <div className="mb-[38px]">
-        <img className="w-full" src={props.img} alt="img" />
+        <img
+          className="w-full"
+          src={`/public/assets/project/project_card_bedroom${props.id}.jpg`}
+          alt="img"
+        />
       </div>
       <div className="flex justify-between items-center">
         <div className="">

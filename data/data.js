@@ -39,33 +39,27 @@ export const service = [
 
 export const project = [
   {
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
-    title: "Minimal Bedroom",
     id: 1,
+    title: "Minimal Bedroom",
   },
   {
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
-    title: "Minimal Bedroom",
     id: 2,
+    title: "Minimal Bedroom",
   },
   {
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
-    title: "Minimal Bedroom",
     id: 3,
+    title: "Minimal Bedroom",
   },
   {
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
-    title: "Minimal Bedroom",
     id: 4,
+    title: "Minimal Bedroom",
   },
   {
     id: 5,
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
     title: "Minimal Bedroom",
   },
   {
     id: 6,
-    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
     title: "Minimal Bedroom",
   },
 ];

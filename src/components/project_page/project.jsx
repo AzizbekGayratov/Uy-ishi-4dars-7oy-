@@ -43,7 +43,7 @@ const Project = () => {
             </nav>
             <ul className="grid grid-cols-2 gap-x-[50px] gap-y-[38px] text-left">
               {project.map((item) => (
-                <Project_card key={item.id} title={item.title} img={item.img} />
+                <Project_card key={item.id} id={item.id} title={item.title} />
               ))}
             </ul>
           </div>
