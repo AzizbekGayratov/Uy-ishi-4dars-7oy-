@@ -13,9 +13,6 @@ import { IoMdCloseCircle } from "react-icons/io";
 
 const App = () => {
   const [isSearching, setIsSearching] = React.useState(false);
-  React.useEffect(() => {
-    console.log(isSearching);
-  }, [isSearching]);
 
   return (
     <Router>
