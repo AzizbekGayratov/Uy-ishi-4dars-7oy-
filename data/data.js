@@ -39,33 +39,33 @@ export const service = [
 
 export const project = [
   {
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
+    title: "Minimal Bedroom",
     id: 1,
-    img: "/public/assets/project/project_card_bedroom1.jpg",
-    title: "Minimal Bedroom",
   },
   {
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
+    title: "Minimal Bedroom",
     id: 2,
-    img: "/public/assets/project/project_card_bedroom2.jpg",
-    title: "Minimal Bedroom",
   },
   {
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
+    title: "Minimal Bedroom",
     id: 3,
-    img: "/public/assets/project/project_card_bedroom3.jpg",
-    title: "Minimal Bedroom",
   },
   {
-    id: 4,
-    img: "/public/assets/project/project_card_bedroom4.jpg",
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
     title: "Minimal Bedroom",
+    id: 4,
   },
   {
     id: 5,
-    img: "/public/assets/project/project_card_bedroom5.jpg",
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
     title: "Minimal Bedroom",
   },
   {
     id: 6,
-    img: "/public/assets/project/project_card_bedroom6.jpg",
+    img: "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi",
     title: "Minimal Bedroom",
   },
 ];
