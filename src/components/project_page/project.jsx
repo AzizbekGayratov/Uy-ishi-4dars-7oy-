@@ -1,16 +1,8 @@
 import React from "react";
 import Project_card from "../cards/project_card";
+import { project } from "../../../data/data.js";
 
 const Project = () => {
-  const [project, setProject] = React.useState([]);
-  React.useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("http://localhost:3000/projectPage");
-      const data = await res.json();
-      setProject(data);
-    };
-    fetchData();
-  }, []);
   return (
     <>
       <section className="mt-[40px] mb-[30px] bg-no-repeat bg-cover bg-center bg-[url('/public/assets/project_hero_bg.jpg')]">

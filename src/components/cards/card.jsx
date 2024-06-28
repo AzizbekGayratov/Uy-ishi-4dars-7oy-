@@ -7,7 +7,7 @@ const Cards = (props) => {
   return (
     <li
       key={props.id}
-      className="w-[358px] py-[80px] hover:bg-[#F8F8F8] transition rounded-[30px] text-center"
+      className="w-[358px] py-[80px] px-[20px] hover:bg-[#F8F8F8] transition rounded-[30px] text-center"
     >
       <h1 className="font-Custom text-[25px] leading-tight text-secondary mb-[20px]">
         {props.title}

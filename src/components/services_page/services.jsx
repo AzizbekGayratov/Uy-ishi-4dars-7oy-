@@ -1,17 +1,8 @@
 import React from "react";
 import Cards from "../cards/card";
+import { service } from "../../../data/data.js";
 
 const Services = () => {
-  const [service, setService] = React.useState([]);
-  React.useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("http://localhost:3000/servicesPage");
-      const data = await res.json();
-      setService(data);
-    };
-    fetchData();
-  }, []);
-
   return (
     <>
       <section className="mt-[30px] bg-no-repeat bg-cover bg-center bg-[url('/public/assets/services_hero_bg.jpg')]">

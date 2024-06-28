@@ -1,17 +1,9 @@
 import React from "react";
 import Cards from "../cards/card.jsx";
 import { HiArrowRight } from "react-icons/hi";
+import { data } from "../../../data/data.js";
 
 const Home = () => {
-  const [data, setData] = React.useState([]);
-  React.useEffect(() => {
-    const fetchData = async () => {
-      const res = await fetch("http://localhost:3000/homePage");
-      const data = await res.json();
-      setData(data);
-    };
-    fetchData();
-  }, []);
   return (
     <>
       <section className="mt-[60px]">
