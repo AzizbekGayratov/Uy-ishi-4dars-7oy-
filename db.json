@@ -1,0 +1,92 @@
+{
+  "homePage": [
+    {
+      "id": 1,
+      "title": "Project Plan",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "title": "Interior Work",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "title": "Realization",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/"
+    }
+  ],
+  "servicesPage": [
+    {
+      "id": 1,
+      "title": "Project Plan",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    },
+    {
+      "id": 2,
+      "title": "Interior Work",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    },
+    {
+      "id": 3,
+      "title": "Retail Design",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    },
+    {
+      "id": 4,
+      "title": "2d/3d Art Work",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    },
+    {
+      "id": 5,
+      "title": "Interior Work",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    },
+    {
+      "id": 6,
+      "title": "Decoration Work",
+      "text": "There are many variations of the passages of lorem Ipsum from available, majority.",
+      "link": "/services"
+    }
+  ],
+  "projectPage": [
+    {
+      "id": 1,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    },
+    {
+      "id": 2,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    },
+    {
+      "id": 3,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    },
+    {
+      "id": 4,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    },
+    {
+      "id": 5,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    },
+    {
+      "id": 6,
+      "title": "Minimal Bedroom",
+      "img": "https://placehold.co/580x700?font=montserrat&text=Bu+yerda+mahsulotning\nrasmi+bo%27lishi+kerak+edi"
+    }
+  ]
+}
